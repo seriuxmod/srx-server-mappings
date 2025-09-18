@@ -1,0 +1,34 @@
+{
+  "id": "seriux",
+  "server-address": ["seriux.de", "seriux.eu", "seriux.net"],
+  "pretty-name": "Seriux",
+  "minecraftVersions": [
+        "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "crossplay": true,
+  "primaryRegion": "DE",
+  "regions": [
+      "DE"
+  ],
+  "primaryLanguage": "de",
+  "languages": [
+      "de"
+  ],
+  "categorys": ["PVP", "MINIGAMES"],
+  "gamemodes": {
+    "MINIGAMES": {
+      "name": "MINIGAMES",
+      "versions": "1.21 -> 1.21.8",
+      "description": "ein Server mit Minigames, PVP und sehr viel mehr"
+    }
+  },
+  "socials": {
+    "website": "https://seriux.net/",
+    "discord": "https://discord.gg/jAjwH8xjnt"
+  },
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
