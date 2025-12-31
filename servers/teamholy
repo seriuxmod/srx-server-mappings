@@ -1,0 +1,76 @@
+{
+  "id": "teamholy",
+  "server-address": ["teamholy.de", "teamholy.net"],
+  "pretty-name": "teamholy",
+  "minecraftVersions": [
+        "1.8.*"
+        "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "crossplay": false,
+  "primaryRegion": "en",
+  "regions": [
+      "de"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+      "en",
+      "de"
+  ],
+  "categorys": ["PVP", "MINIGAMES"],
+  "gamemodes": {
+    "BRIDGE": {
+      "name": "BRIDGE",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "CLUTCHES": {
+      "name": "CLUTCHES",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "KNOCKBACKFFA": {
+      "name": "KNOCKBACKFFA",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "BEDWARS": {
+      "name": "BEDWARS",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "RUSHBW": {
+      "name": "RUSHBW",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "SGFFA": {
+      "name": "SGFFA",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "MLGRUSH": {
+      "name": "MLGRUSH",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "SKYWARSFFA": {
+      "name": "SKYWARSFFA",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    },
+    "DUELS": {
+      "name": "DUELS",
+      "versions": "1.8.9 -> 1.21.11",
+      "description": ""
+    }
+  },
+  "socials": {
+    "website": "https://teamholy.net/",
+    "discord": ""
+  },
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
