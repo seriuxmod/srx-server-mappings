@@ -1,0 +1,54 @@
+{
+  "id": "thevace",
+  "server-address": ["thevace.net"],
+  "pretty-name": "TheVace",
+  "minecraftVersions": [
+        "1.21.5-1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "crossplay": true,
+  "primaryRegion": "DE",
+  "regions": [
+      "DE"
+  ],
+  "primaryLanguage": "de",
+  "languages": [
+      "de"
+  ],
+  "categorys": ["FUN", "GEMEINSCHAFT", "PVP", "STRATEGIE", "CASUAL", "GESELLSCHAFTSSPIELE"],
+  "gamemodes": {
+    "Eventplatz": {
+      "name": "Eventplatz",
+      "versions": "1.21.5 -> 1.21.11",
+      "description": ""
+    },
+    "Bedwars": {
+      "name": "Bedwars",
+      "versions": "1.21.5 -> 1.21.11",
+      "description": ""
+    },
+    "WoolBattle": {
+      "name": "WoolBattle",
+      "versions": "1.21.5 -> 1.21.11",
+      "description": ""
+    },
+    "Murder": {
+      "name": "Murder",
+      "versions": "1.21.5 -> 1.21.11",
+      "description": ""
+    },
+    "CommunityGames": {
+      "name": "CommunityGames",
+      "versions": "1.21.5 -> 1.21.11",
+      "description": ""
+    }
+  },
+  "socials": {
+    "website": "https://thevace.net/",
+    "discord": "https://discord.gg/thevacenet"
+  },
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
